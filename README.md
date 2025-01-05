@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ce52b537-c799-4da8-a1a1-95b09d4c7dce)
 
-Welcome to **DevOps & Cloud Insights**! 🚀  
+Welcome to **DevOps & Cloud Blogs**! 🚀  
 This repository is a curated collection of articles, insights, and notes focused on **Cloud Computing**, **DevOps practices**, and my learnings from **meetups** and events.  
 
 ---
