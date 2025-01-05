@@ -1,5 +1,6 @@
 # The Role of Automation in DevOps
 
+![image](https://github.com/user-attachments/assets/48d4ce54-2198-4d25-82c1-b3f92497d606)
 
 
 In today's fast-paced digital world, the need for faster and more reliable software delivery is greater than ever. A key principle driving this change is automation. In DevOps, automation is more than just a buzzword—it's the backbone that supports streamlined workflows, reduces errors, and increases overall efficiency. In this article, we will explore why automation is essential in DevOps, share real-life examples, and discuss the clear benefits it offers to development and operations teams. 💻⚙️
