@@ -60,6 +60,8 @@ After the sessions, we were treated to a delicious lunch, providing an opportuni
 ### 🎁 Goodies Galore
 As a thoughtful gesture, the DigitalOcean team provided some amazing goodies, adding a fun and memorable touch to the event.
 
+![image](https://github.com/user-attachments/assets/fda5bbb9-62a5-48e4-bed8-780dec18a8b1)
+
 ---
 
 ## Why This Event Stands Out
