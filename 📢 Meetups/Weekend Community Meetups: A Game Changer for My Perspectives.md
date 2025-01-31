@@ -19,17 +19,13 @@ Beyond the structured talks, the real magic happens during informal conversation
 
 ![image](https://github.com/user-attachments/assets/8c98a8ee-51b2-4cc1-9c32-e3f59805baed)
 
-![image](https://github.com/user-attachments/assets/a255fec7-0e40-43e1-883b-79df61776de6)
-
 ## Why I Choose Meetups Over Sleeping In 😴➡️🤩
 Let’s be honest: the temptation to stay in bed on a lazy weekend morning is real. The idea of pressing the snooze button, sinking back into warm covers, and doing absolutely nothing is hard to resist. But as much as I love sleeping in, I’ve found that stepping out for a meetup is far more rewarding. Here’s why: 🌅
 
-![image](https://github.com/user-attachments/assets/ae787647-0f40-4975-916b-799e2df980f5)
-
-![image](https://github.com/user-attachments/assets/7eeecb99-bb81-4a0d-bd71-d8119d91fb86)
-
 ### 1. Networking Opportunities 🧑‍🤝‍🧑🌐
 One of the biggest draws of attending community meetups is the incredible networking potential they offer. In the digital age, online networking platforms like LinkedIn are fantastic, but there’s something irreplaceable about meeting people face-to-face. At these events, I’ve met some of the most inspiring individuals, from fellow professionals to industry experts who have shared valuable insights, tips, and opportunities. 💼
+
+![image](https://github.com/user-attachments/assets/a255fec7-0e40-43e1-883b-79df61776de6)
 
 The connections I’ve made at meetups have gone far beyond casual acquaintances. Many of them have transformed into lasting relationships, leading to collaborations, mentorships, and even job opportunities. The beauty of networking in this informal setting is that you can approach people without the pressure of a formal job interview or business pitch. The conversations are more natural, and often, you end up discovering shared interests beyond just your professional lives. 👨‍💻🎯
 
@@ -38,6 +34,8 @@ While theoretical knowledge can be valuable, there’s no substitute for learnin
 
 For example, I once attended a meetup where a speaker shared the story of how his team overcame a major infrastructure failure by implementing a DevOps culture. Hearing firsthand about the challenges they faced, the technologies they used, and the lessons they learned was invaluable. It was an experience far more enriching than simply reading about such topics online. These kinds of practical insights, especially when shared by people who have worked in the field for years, have given me a deeper understanding of how the industry works. 🔧📈
 
+![image](https://github.com/user-attachments/assets/ae787647-0f40-4975-916b-799e2df980f5)
+
 ### 3. An Active Way to Recharge ⚡🧠
 While some people view weekends as a time to relax and recharge, I see meetups as an active form of relaxation. Engaging in meaningful conversations, learning something new, and exchanging ideas with like-minded people provides a refreshing break from the monotony of daily life. It stimulates both the mind and the soul in a way that typical weekend activities like watching TV or sleeping never could. 🎥💤
 
@@ -45,6 +43,8 @@ There’s something invigorating about being in an environment where everyone is
 
 ### 4. Breaking the Monotony 🔄
 Meetups add a refreshing twist to my weekends. They break the monotony of typical weekend activities, like binge-watching shows or shopping. At these events, I’m constantly exposed to new ideas, new technologies, and new people. The novelty of it all keeps me engaged and excited about learning. 🤖📚
+
+![image](https://github.com/user-attachments/assets/7eeecb99-bb81-4a0d-bd71-d8119d91fb86)
 
 Moreover, I find it incredibly satisfying to leave a meetup knowing that I spent my weekend wisely, growing both professionally and personally. While others might have spent their time in a more conventional way, I come home with a sense of accomplishment and the excitement of having learned something new. 🎉🏆
 
